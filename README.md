@@ -21,9 +21,9 @@ Questa repository documenta l'analisi e il confronto di due strumenti per il con
 # 🔧 Setup
 
 ## Requisiti
-🐧 Ambiente Linux per garantire la compatibilità degli strumenti;
-💻 Ambiente C++ con compilatore GCC o equivalente;
-🛠️ CMake per la configurazione del progetto.
+- 🐧 Ambiente Linux per garantire la compatibilità degli strumenti;
+- 💻 Ambiente C++ con compilatore GCC o equivalente;
+- 🛠️ CMake per la configurazione del progetto.
 
 ## Installazione dei tool
 Clonare e compilare le repository ufficiali.
