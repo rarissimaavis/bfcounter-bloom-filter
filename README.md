@@ -71,7 +71,7 @@ Esempio di comando per il conteggio dei k-mer e la stampa delle statistiche:
 
 Per esportare i k-mer in un file di testo con frequenza associata:
 ```bash
-./BFCounter dump -k 31 -i output.bf -o kmers.txt
+jellyfish dump -c output.jf | awk '{printf "%-8s%d\n", $1, $2}' > kmers.txt
 cat kmers.txt
 ```
 
