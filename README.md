@@ -72,7 +72,7 @@ Per esportare i k-mer in un file di testo con frequenza associata:
 cat kmers.txt
 ```
 
-# 📊 Risultati Sperimentali
+# 📊 Risultati sperimentali
 
 ## BFCounter
 
