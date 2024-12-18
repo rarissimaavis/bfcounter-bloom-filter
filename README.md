@@ -25,6 +25,9 @@ Questa repository documenta l'analisi e il confronto di due strumenti per il con
 - 💻 Ambiente C++ con compilatore GCC o equivalente;
 - 🛠️ CMake per la configurazione del progetto.
 
+## Dataset
+Per i test è stato utilizzato il dataset [SRR11528307](https://trace.ncbi.nlm.nih.gov/Traces/index.html?view=run_browser&acc=SRR11528307&display=download), disponibile su NCBI.
+
 ## Installazione dei tool
 Clonare e compilare le repository ufficiali.
 
